@@ -92,6 +92,10 @@
     - 빼는것만 뒤집어서 뺴는게 아니라 출력할 때도 뒤집어야 하는데 까먹음..
 - 실수를 줄이자.
 
+[2747](https://www.acmicpc.net/problem/2747), [2748](https://www.acmicpc.net/problem/2748) : 2018.09.15.
+
+- 간단한 피보나치 문제.
+
 ---
 
 ## leetcode.com
