@@ -233,6 +233,14 @@
   - 처음에는 문자열들의 첫글자만 가지고 dict를 만든다
   - 그리고 윈소가 다 빠질때까지 계속 키를 늘려가며 다시 dict에 넣음
 
+[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105): 2018.10.04.
+
+- 간단한 dp문제
+- 근데 바운더리 체크 이상하게 해서 틀렸다..
+- 자바로 했는데, 자바는 ide 없으면 실행해보기가 너무 불편하다.
+- 스켈레톤 코드 주는 것들도 애매하다.
+- 여튼 자바는 불편하다..
+
 ## algospot.com
 
 [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) : 2018.09.26.
