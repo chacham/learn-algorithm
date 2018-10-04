@@ -241,6 +241,13 @@
 - 스켈레톤 코드 주는 것들도 애매하다.
 - 여튼 자바는 불편하다..
 
+[도둑질](https://programmers.co.kr/learn/courses/30/lessons/42897): 2018.10.04.
+
+- dp문제
+- 조금 기묘한데, 나는 그냥 맨앞에꺼 포함/안포함 해서 2개짜리로 만들어서 했다.
+- 그런데, 마지막에 답찾을 때, 비교대상 하나를 안넣어서 틀림..
+- 한번만에 맞추는 문제가 없냐 허허
+
 ## algospot.com
 
 [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) : 2018.09.26.
