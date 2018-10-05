@@ -248,6 +248,13 @@
 - 그런데, 마지막에 답찾을 때, 비교대상 하나를 안넣어서 틀림..
 - 한번만에 맞추는 문제가 없냐 허허
 
+[3xN 타일링](https://programmers.co.kr/learn/courses/30/lessons/12902): 2018.10.05.
+
+- dp 문제.. 인데 n짜리는 아님.
+- 2xN은 쉬웠는데, 이건 생각 한참 했다..
+- n^2가 나와서 될까 했는데 됨!
+- dp는 다 n으로 생각하고 시작했는데, 이래저래 다양하게 생각해보도록 하자.
+
 ## algospot.com
 
 [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) : 2018.09.26.
