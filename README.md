@@ -216,6 +216,14 @@
   - return False
 - 두쪽 다 클린하다면 새로운 매핑을 만들고 다음 글자로.
 
+[add-two-numbers](https://leetcode.com/problems/add-two-numbers/description/) : 2018.11.09.
+
+- 두 숫자를 더하는 문제
+- 그런데, 그냥 더하는게 아니라 전가산기를 만들어서 뒤에서 한자리씩 더한다.
+- 스칼라로 풀어보고싶었는데, 잘 몰라서 아쉽다.
+- 그냥 자바스크립트로 풀었음
+- 재귀로 앞에서부터 하나씩 더해버렸다~
+
 ---
 
 ## programmers.co.kr
