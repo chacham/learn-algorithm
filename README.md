@@ -224,6 +224,12 @@
 - 그냥 자바스크립트로 풀었음
 - 재귀로 앞에서부터 하나씩 더해버렸다~
 
+[integer-to-roman](https://leetcode.com/problems/integer-to-roman/description/) : 2018.11.22.
+
+- 정수를 입력받으면 로마 숫자 문자열로 바꾸는 문제
+- 4, 9 단위일때 조심해야했다
+- 근데 그냥 쭉 나열시켜놓고 큰거에서 쭉 빼면 됨
+
 ---
 
 ## programmers.co.kr
