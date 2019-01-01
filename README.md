@@ -96,7 +96,7 @@
 
 - 간단한 피보나치 문제.
 
-[2479](https://www.acmicpc.net/problem/2479) : 2018.09.17.
+[2749](https://www.acmicpc.net/problem/2749) : 2018.09.17.
 
 - 큰 수의 피보나치 문제.
 - 행렬을 제곱해가면서 찾아서 풀었다.
@@ -308,3 +308,12 @@
 - 알고리즘 문제 해결 전략에서 맨 처음에 나오는 문제
 - 선형으로 풀 수도 있다고 하지만 지금은 잘 모르겠다..
 - 이제 슬슬 책 보고 공부해야지
+
+## swexpertacademy.com
+
+[1244. 최대 상금](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD) : 2019.01.01.
+
+- 자릿수를 주어진 횟수만큼 바꾸며 나오는 최대 숫자를 찾는 것
+- 친구가 풀어보래서 간단하게 풀어봤다
+- set으로 문자열 그냥 전부다 넣어보면서 해봄..
+- 숫자가 조금만 더 길어지면 안될 것 같다.
