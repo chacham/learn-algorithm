@@ -253,6 +253,15 @@
   - 혼자서 좀더 고민해볼 것.
   - 그리고 보이는 TC만 집중해서 고치니 코드도 더러워지더라..
 
+[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) : 2019.01.07.
+
+- 주어진 문자열에서 주어진 문자와의 거리가 얼마나 되는지 확인하는 문제
+- 나는 앞에서부터 쭉 돌다가, 찾는 문자가 나오면 앞으로 쭉 돌려본다.
+- 그런데, 앞으로 한번 뒤로 한번 훑어보는것도 괜찮을듯.
+  - 그래서 고친게 solve2
+- 찾을때마다 돌아가며 확인하는건 112ms, 앞으로 한번 뒤로 한번은 76ms 걸렸다.
+  - 검사하는것 자체는 이정도로 차이 안날 것 같은데, localty때문?
+
 ---
 
 ## programmers.co.kr
