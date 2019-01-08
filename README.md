@@ -270,6 +270,15 @@
 - 그래서 꽤 오래걸렸다. 그냥 찾기는 쉬운데 트리 유지하면서 하는건 은근 귀찮..
 - 재귀로 하는것도 생각해보자. 난 그냥 반복으로 찾아서 옮기고 지우고 했는데, 재귀로 짠거 한번 보니 멋있다
 
+[reverse-only-letters](https://leetcode.com/problems/reverse-only-letters/) : 2019.01.08.
+
+- 문자열에서 영어글자는 앞뒤로 바꾸고, 다른 글자들은 그대로 놔두는 문제
+- js에서 문자(char)를 직접 다루는게 없고, string에다가 map이나 forEach같은 array 함수들이 동작안해서 귀찮..
+- 그래서 그냥 Array로 바꿔서 썼다
+- 영어문자들만 stack에 넣어두고, 영어문자가 나오면 pop해서 대신 넣어줬다.
+  - Map이 병렬적이지 않을꺼라고 생각하고 한것!!
+  - 병렬적으로 돌아가면 forEach로 result에다가 하나씩 넣어주면 될것같다.
+
 ---
 
 ## programmers.co.kr
