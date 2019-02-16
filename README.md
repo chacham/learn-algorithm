@@ -279,6 +279,15 @@
   - Map이 병렬적이지 않을꺼라고 생각하고 한것!!
   - 병렬적으로 돌아가면 forEach로 result에다가 하나씩 넣어주면 될것같다.
 
+[longest-substring-without-repeating-characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : 2019.02.16.
+
+- 마지막 인덱스를 뒤로 밀다가 이미 존재하는게 나오면 시작하는 인덱스를 뒤로 밀어서 풀었다.
+- 처음에는 입력 범위를 내맘대로 생각함..
+  - 무조건 길이 1 넘을꺼라고 맘대로 생각, 영어 소문자만 오겠거니 생각해버림.
+  - 입력에 대해 마음대로 생각하지 말자..
+- 느려서 쓸데없는 부분들을 좀 지우니까 조금 빨라졌다.
+- IDE 없이 그냥 코딩하니 역시 난 잘 모른다. 도움 없이 코딩하는 능력 키우자.
+
 ---
 
 ## programmers.co.kr
