@@ -400,3 +400,13 @@
 - 친구가 풀어보래서 간단하게 풀어봤다
 - set으로 문자열 그냥 전부다 넣어보면서 해봄..
 - 숫자가 조금만 더 길어지면 안될 것 같다.
+
+## [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+
+[Big Buttons](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ee2/0000000000051136) : 2019.02.26.
+
+- 주어진 prefix 없이 만들 수 있는 문자열의 갯수를 구하는 문제
+- 천천히 생각부터 하고 코딩했으면 빨리 풀었을텐데, 그냥 무작정 손대서 오래걸렸다..
+- 종이 가지고다니면서 적으면서 생각해보자
+- 또, 출력 형식 틀려서 틀림..
+  - 조심합시다
