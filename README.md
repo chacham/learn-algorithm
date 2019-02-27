@@ -313,6 +313,13 @@
   - 쓰기 편하게 가공한 뒤에 문제 풀자
 - 바운더리가 역시 귀찮다. 더 깊이 생각하고 짜자.
 
+[container-with-most-water](https://leetcode.com/problems/container-with-most-water/) : 2019.02.27.
+
+- 풀어봤던 문제라 금방 풀었다.
+- 그런데, 대충대충 생각하고 풀었다고 생각했는데, 중요부분 처리하고나서 해야할걸 안함..
+  - 꼼꼼하게 수도코드 적으면서 하는 습관을 좀 들여야할듯.
+  - 특히 ide 없이 코딩할때!!!
+
 ---
 
 ## programmers.co.kr
