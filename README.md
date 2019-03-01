@@ -341,6 +341,13 @@
   - 일단 빠르게 구현하고 더 좋게 만드는게 좋을듯하다.
 - 확실히 적고 하니까 더 편하다!! 습관 들이자
 
+[string-to-integer-atoi](https://leetcode.com/problems/string-to-integer-atoi/) : 2019.03.02.
+
+- 문자열을 숫자로 바꾸는 문제
+- 빈 문자열이 입력으로 오는거 빼먹어서 틀렸다
+  - 필요한 부분 뒤에 더이상 안들어오는 경우도..
+- 입력에 대해서 좀 더 넓게 생각해야할듯.
+
 ---
 
 ## programmers.co.kr
