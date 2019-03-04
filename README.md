@@ -348,6 +348,15 @@
   - 필요한 부분 뒤에 더이상 안들어오는 경우도..
 - 입력에 대해서 좀 더 넓게 생각해야할듯.
 
+[symmetric-tree](https://leetcode.com/problems/symmetric-tree/) : 2019.03.04.
+
+- 트리가 좌우대칭인지 확인하는 문제
+- 처음 생각난건 재귀로 왼쪽 오른쪽 확인하는거
+  - 호다닥 만들었다
+- 그런데 Recursive, Iterative 둘다 구현해보래서 만들었다
+  - Iterative는 스택 써서!
+- 빈 입력일때 처리 안해서 한번 틀림.. 빈 입력 항상 고려하도록 하자
+
 ---
 
 ## programmers.co.kr
