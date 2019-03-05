@@ -357,6 +357,15 @@
   - Iterative는 스택 써서!
 - 빈 입력일때 처리 안해서 한번 틀림.. 빈 입력 항상 고려하도록 하자
 
+[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/) : 2019.03.05.
+
+- 주어진 바이너리 트리가 balanced인지 판별하는 문제
+- and 빼먹어서 이상하게 실행이 안됨..
+  - 보기 편하게 개행하려다 잘못 고친 것
+  - 중요한걸 먼저 생각합시다
+- height랑 balanced를 따로 계산하니까 재귀를 따로 돌아서 중복계산 계속 하고있었다
+  - 다른사람 코드 보고 나도 합치니까 코드도 짧아지고 시간도 절반이 됨!
+
 ---
 
 ## programmers.co.kr
