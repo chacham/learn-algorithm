@@ -376,6 +376,11 @@
 - 처음엔 잘 풀었다고 생각했는데, 풀고나니 훨씬 깔끔한 코드가 있어서 고쳤다
 - 그래도 생각은 처음부터 잘 하긴 한듯!
 
+[zigzag-conversion](https://leetcode.com/problems/zigzag-conversion/) : 2019.03.06.
+
+- 예전에 보고 풀기 싫어서 안풀었던 문제인데.. 풀었다!
+- 그래도 역시 깔끔하진 않은듯.. 억지로 끼워맞춘 느낌
+
 ---
 
 ## programmers.co.kr
