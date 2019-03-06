@@ -366,6 +366,11 @@
 - height랑 balanced를 따로 계산하니까 재귀를 따로 돌아서 중복계산 계속 하고있었다
   - 다른사람 코드 보고 나도 합치니까 코드도 짧아지고 시간도 절반이 됨!
 
+[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/) : 2019.03.06.
+
+- 두 정렬된 리스트를 하나로 합치는 문제
+- 이건 이상한짓 안하고 잘 풀었다!
+
 ---
 
 ## programmers.co.kr
