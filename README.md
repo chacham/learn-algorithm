@@ -371,6 +371,11 @@
 - 두 정렬된 리스트를 하나로 합치는 문제
 - 이건 이상한짓 안하고 잘 풀었다!
 
+[trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/) : 2019.03.06.
+
+- 처음엔 잘 풀었다고 생각했는데, 풀고나니 훨씬 깔끔한 코드가 있어서 고쳤다
+- 그래도 생각은 처음부터 잘 하긴 한듯!
+
 ---
 
 ## programmers.co.kr
