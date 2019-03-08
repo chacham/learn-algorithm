@@ -388,6 +388,12 @@
 - 풀고나니 dictionary 쓰는 코드가 있길래 보고 따라씀..
 - 깊이 생각하도록 합시다
 
+[maximum-binary-tree](https://leetcode.com/problems/maximum-binary-tree/) : 2019.03.08.
+
+- 주어진 리스트를 큰 값이 위에 있는 트리로 바꾸는 문제
+- 나는 앞에서부터 처리하면 오른쪽에만 붙는구나 하면서 풀었다
+- 그런데 짧고 빠른 코드들 많으니까 보고 더 생각해봐야할듯
+
 ---
 
 ## programmers.co.kr
