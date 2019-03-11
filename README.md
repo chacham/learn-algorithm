@@ -483,6 +483,13 @@
 - n^2가 나와서 될까 했는데 됨!
 - dp는 다 n으로 생각하고 시작했는데, 이래저래 다양하게 생각해보도록 하자.
 
+[사칙연산](https://programmers.co.kr/learn/courses/30/lessons/1843): 2019.03.11.
+
+- 괄호를 여기저기 두면서 덧셈, 뺄셈 결과가 가장 커지는 값 찾기
+- 양쪽으로 나누면서 무작정 하니까 맞긴 하는데, 느리다
+- 오랜만에 메모이제이션 쓰니까 잘 돌아감!
+- 막막해보이는 것도 작은것부터 하면 될지도!
+
 ## algospot.com
 
 [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) : 2018.09.26.
