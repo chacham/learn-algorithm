@@ -412,6 +412,11 @@
   - 그런데 계속 틀렸던게, 마지막 인덱스에서 점프하는건 계산할 필요가 없었음
   - 바운더리는 항상 어렵다
 
+[gray-code](https://leetcode.com/problems/gray-code/) : 2019.03.13.
+
+- Gray code를 주어진 숫자에 따라 쭉 만드는 문제
+- 재귀로 전에 어디선가 읽었던건지 들었던건지 생각나서 쉽게 풀었다
+
 ---
 
 ## programmers.co.kr
