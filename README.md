@@ -424,6 +424,12 @@
 - 다른사람 글 보니까, 뒤에서 접근하길래 뒤에서부터 해보니까 너무너무너무 쉬운문제였다
 - 이상하게 어려울땐 시작하는 방향을 다르게 해보자
 
+[shortest-unsorted-continuous-subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) : 2019.03.19.
+
+- 주어진 배열에서 어느정도 길이의 subarray를 정렬해야 완전히 정렬되는지 찾는 문제
+- 처음에 복잡하게 생각하다가, 그냥 정렬해버리고 비교해버렸음
+- 그래도 더 빠른 해법이 있겠지. O(n)으로 될것같으니 내일 다시 생각해보자
+
 ---
 
 ## programmers.co.kr
