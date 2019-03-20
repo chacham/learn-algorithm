@@ -439,6 +439,14 @@
 - 간만에 이진탐색 연습했다
 - 천천히 생각하면서 코드 짤 것
 
+[regular-expression-matching](https://leetcode.com/problems/regular-expression-matching/) : 2019.03.20.
+
+- 재귀로 대충 짜면 그래도 돌아는 갈줄 알았는데, 생각처럼 잘 풀리진 않은 문제
+- 케이스를 신경쓸게 많다..
+- 그래도 재귀로 어찌저찌 짜서 구현했더니, 아주 느림
+- 메모이제이션 넣어서 빨라졌다!
+- 끝에 남아있는 경계 체크하는거 헷갈려서 한참 찾았다. 이항하며 잘 생각해보자
+
 ---
 
 ## programmers.co.kr
