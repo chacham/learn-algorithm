@@ -467,6 +467,13 @@
 - 이건 쫌더 쉽다
 - 숫자가 커지면 메모이제이션 해서 좀 빠르게 만들 수 있을듯
 
+[interleaving-string](https://leetcode.com/problems/interleaving-string/) : 2019.03.27.
+
+- 문자열 두개를 적당히 머지해서 주어진 문자열이 되는가?
+- 그냥 재귀로 대충 했더니 느리다
+- Discuss에 dp가 있길래 어떻게 할까 그냥 짜봤더니 돌아감
+- Solution 보면 이런저런것들이 있느니까 한번 해봐야겠다
+
 ---
 
 ## programmers.co.kr
