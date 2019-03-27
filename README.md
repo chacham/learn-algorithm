@@ -461,6 +461,12 @@
 - 재귀로 적당히 하면 잘 됨
 - 근데 10 넘으면 너무느려서 터지는듯
 
+[unique-binary-search-trees](https://leetcode.com/problems/unique-binary-search-trees/) : 2019.03.27.
+
+- 만들 수 있는 바이너리 서치 트리 갯수를 구하는 것
+- 이건 쫌더 쉽다
+- 숫자가 커지면 메모이제이션 해서 좀 빠르게 만들 수 있을듯
+
 ---
 
 ## programmers.co.kr
