@@ -455,6 +455,12 @@
 - 문자열이 길어지면 메모리 터지고 엄청느려질듯!!
 - 따로 visited 기록하는걸 놔두던지, 해시맵같은걸로 저장하든지 하고, route를 계속 새로 안만드는게 나을듯
 
+[unique-binary-search-trees-ii](https://leetcode.com/problems/unique-binary-search-trees-ii/) : 2019.03.27.
+
+- 만들 수 있는 바이너리 서치 트리를 모두 만들어서 리턴하는 것
+- 재귀로 적당히 하면 잘 됨
+- 근데 10 넘으면 너무느려서 터지는듯
+
 ---
 
 ## programmers.co.kr
