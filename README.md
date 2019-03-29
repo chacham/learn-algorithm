@@ -481,6 +481,11 @@
 - 그냥 바로 챡 될줄 알았는데 생각처럼은 안됐다
 - 요즘에 깊게 생각하는걸 또 잘 안하는듯.. 천천히 생각하자
 
+[different-ways-to-add-parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) : 2019.03.29.
+
+- 전에 비슷한거 풀어봤던것같아서 금방 했다
+- 대충 해도 풀렸는데, 메모이제이션 쓰니까 더 빨리됨
+
 ---
 
 ## programmers.co.kr
