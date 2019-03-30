@@ -578,6 +578,14 @@
 - 그런데, 생각보다 엄청 어려움..
 - 쉬움이라고 적혀있는데, 기초가 많이 부족한것같다
 
+[QUADTREE](https://algospot.com/judge/problem/read/QUADTREE) : 2019.03.31.
+
+- 재귀로 슥슥 풀리는 문제였다
+- 나는 귀찮아서 대충 문자열 잘라서 했는데, 인덱스로 했으면 좀더 편하게 됐을듯
+- 또, 4개밖에 안되는건데 반복문 썼다
+  - 그냥 나열하는게 더 보기 좋을수도
+  - 숫자 고정되어있는건 그러는게 좋겠다!
+
 ## swexpertacademy.com
 
 [1244. 최대 상금](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD) : 2019.01.01.
