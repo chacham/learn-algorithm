@@ -504,6 +504,11 @@
 - 주어진 두 바이너리 트리를 합치는 것
 - 재귀로 짜면 쉽다
 
+[binary-tree-pruning](https://leetcode.com/problems/binary-tree-pruning/) : 2019.04.20.
+
+- 바이너리 트리 중에서 조건 만족하는것만 남기기
+- 조건 쓸데없는거 안하도록 잘 생각하니까 잘됨!
+
 ---
 
 ## programmers.co.kr
