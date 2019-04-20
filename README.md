@@ -509,6 +509,11 @@
 - 바이너리 트리 중에서 조건 만족하는것만 남기기
 - 조건 쓸데없는거 안하도록 잘 생각하니까 잘됨!
 
+[groups-of-special-equivalent-strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) : 2019.04.20.
+
+- 다 검사할 필요 없이, 동치인것들 다 합치면 되니까 normalize하면 된다
+- 근데, 다른사람 코드 보니까 더 잘짰다...
+
 ---
 
 ## programmers.co.kr
