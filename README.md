@@ -499,6 +499,11 @@
 - 양쪽 확인하다가 not 안붙여서 한참 왜안될까 고민했다
 - 급하게 안짜고 미리 적기 연습해볼까 생각했었는데, 잘 안되네..
 
+[merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/) : 2019.04.20.
+
+- 주어진 두 바이너리 트리를 합치는 것
+- 재귀로 짜면 쉽다
+
 ---
 
 ## programmers.co.kr
