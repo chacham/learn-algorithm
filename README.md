@@ -514,6 +514,17 @@
 - 다 검사할 필요 없이, 동치인것들 다 합치면 되니까 normalize하면 된다
 - 근데, 다른사람 코드 보니까 더 잘짰다...
 
+[print-in-order](https://leetcode.com/problems/print-in-order/) : 2019.12.15.
+
+- 호출 순서에 상관없이, 정해진 순서대로 실행되도록 하기
+- 처음엔 `while`문으로 spin lock처럼 함
+  - 2초 걸림. 아주 느리다(당연)
+- 다음은 `sleep`을 아주 조금 줘서 돌림
+  - 꽤 빨리 되지만 이상함
+- 다른사람꺼 보고 `Lock` 사용
+  - 깔끔하고 좋다
+  - 파이썬에서 그냥 쓸수있는 `Lock`이 있는걸 알게됨
+
 ---
 
 ## programmers.co.kr
