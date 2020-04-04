@@ -694,6 +694,33 @@
 - Alien Rhyme
   - 트라이 생각나서 뒤집고 트라이 만드니까 금방 풀렸다
 
+[Qualification Round 2020](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27)
+
+- f스트링 쓰다가 파이썬 버전안맞아서 RE나왔다. 버전 확인하기
+- 이번에 `break`때문에 시간을 너무많이썼다
+  - 코드 다시볼때 우선 볼 것
+- Vestigium
+  - 그냥 시키는대로 하면 풀리는 것
+- Nesting Depth
+  - 그냥 앞에서 쭉 훑으면서 하면 됨
+- Parenting Partnering Returns
+  - `break` 안써서 한참 못찾았다
+    - 테스트케이스가 돌아가서 더 한참찾았다
+  - 3개짜리에서는 어려울것같음
+  - 이런 시간같은거 나오면 시작/끝 시간으로 뭐 할수없나 먼저 생각해보자
+- ESAb ATAd
+  - 한참걸렸는데, 규칙찾는게 나한테는 어려웠다
+  - inverse시키는거랑 reverse시키는거 찾는건 다음에 보면 못볼것같다
+  - 맨앞 맨뒤 맞춰놓고 점점 늘려나가는법 찾는거 잘한것같다
+  - interactive 처음풀어봤는데, 재미있다
+  - `break` 위치 틀려서 한참삽질했다
+    - interactive라서 디버깅이 좀 어려웠음
+    - stderr 잘 써서 디버깅하기
+- Indicium
+  - Vestigium 반대로 하는것?
+  - 천천히 풀면 할수도 있을것같은데, 이런식으로 푸는건 내가 잘 못함
+  - 시간날때 풀어봐야겠다
+
 ## [codeforeces](https://codeforces.com)
 
 [Round#552](https://codeforces.com/contest/1154)
