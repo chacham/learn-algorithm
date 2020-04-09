@@ -525,6 +525,11 @@
   - 깔끔하고 좋다
   - 파이썬에서 그냥 쓸수있는 `Lock`이 있는걸 알게됨
 
+[duplicate-emails](https://leetcode.com/problems/duplicate-emails/) : 2020.04.09.
+
+- 간단한 SQL 문제
+- Inner Query 안쓰고도 하는사람 있는데, 다른사람 코드 확인해볼것
+
 ---
 
 ## programmers.co.kr
