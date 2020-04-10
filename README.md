@@ -530,6 +530,12 @@
 - 간단한 SQL 문제
 - Inner Query 안쓰고도 하는사람 있는데, 다른사람 코드 확인해볼것
 
+[valid-phone-numbers](https://leetcode.com/problems/valid-phone-numbers/) : 2020.04.10.
+
+- Bash 문제
+- 그냥 정규표현식 쓰면 되는데, grep 대충만 쓰다보니, 옵션이 잘 생각이 안난다
+- 정규표현식 필요한 만큼은 알아두도록 하자
+
 ---
 
 ## programmers.co.kr
