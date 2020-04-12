@@ -536,6 +536,12 @@
 - 그냥 정규표현식 쓰면 되는데, grep 대충만 쓰다보니, 옵션이 잘 생각이 안난다
 - 정규표현식 필요한 만큼은 알아두도록 하자
 
+[number-of-islands](https://leetcode.com/problems/number-of-islands/) : 2020.04.12.
+
+- BFS/DFS 기본 문제
+- 오랜만에 풀었는데, 푸는 방식은 맞았는데 느리다
+- 다시 꾸준하게 풀면서 기술같은걸 손에 익혀야 할듯
+
 ---
 
 ## programmers.co.kr
