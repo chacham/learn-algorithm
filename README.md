@@ -542,6 +542,14 @@
 - 오랜만에 풀었는데, 푸는 방식은 맞았는데 느리다
 - 다시 꾸준하게 풀면서 기술같은걸 손에 익혀야 할듯
 
+[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) : 2020.04.15.
+
+- Tree inorder 문제
+- Tree 풀고싶어서 잡았는데, inorder 하다가 중간에 끊어야 했다
+- Scala로 풀었다
+- 튜플 써서 리턴타입 2가지중에 골라서 해서 풀었음
+  - 처음엔 Either 썼는데, Tuple이 더 빠를 것 같아서 바꿨더니 조금 빨라짐
+
 ---
 
 ## programmers.co.kr
