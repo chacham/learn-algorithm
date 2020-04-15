@@ -13,10 +13,7 @@ object Solution {
             solve(root.left, k) match {
                 case (0, res) => (0, res)
                 case (1, _) => (0, root.value)
-                case (left, _) => solve(root.right, left - 1) match {
-                    case (0, res) => (0, res)
-                    case (right, _) => (right, 0)
-                }
+                case (left, _) => solve(root.right, left - 1)
             }
         }
         solve(root, k)._2
