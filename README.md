@@ -551,6 +551,11 @@
   - 처음엔 Either 썼는데, Tuple이 더 빠를 것 같아서 바꿨더니 조금 빨라짐
 - 파이썬으로 다시 풀다보니 right에서 케이스를 나눌 필요가 없어서 뺌
 
+[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) : 2020.04.16.
+
+- 트리 문제
+- 스칼라로 풀긴 했는데, 그냥 언어만 스칼라고 제대로 못쓰고 있는 것 같다
+
 ---
 
 ## programmers.co.kr
