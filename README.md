@@ -556,6 +556,12 @@
 - 트리 문제
 - 스칼라로 풀긴 했는데, 그냥 언어만 스칼라고 제대로 못쓰고 있는 것 같다
 
+[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target/) : 2020.04.18.
+
+- BFS/DFS 문제
+- 끝쪽부터 찾아야 하나 했는데, 생각해보니까 똑같은것같다
+- 모든 경로를 다 찾는거라 간단하게 했는데, cycle이 있거나 했으면 어려웠겠다
+
 ---
 
 ## programmers.co.kr
