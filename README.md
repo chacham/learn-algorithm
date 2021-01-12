@@ -692,6 +692,11 @@
   - 그냥 나열하는게 더 보기 좋을수도
   - 숫자 고정되어있는건 그러는게 좋겠다!
 
+[BOARDCOVER](https://algospot.com/judge/problem/read/BOARDCOVER) : 2021.01.12.
+
+- dfs로 풀었는데, 케이스 하나에서 조건을 이상하게 잡아서 한참동안 삽질을 했다
+- 그래도 이번엔 분명 조건을 이상하게 잡았을꺼라고 의심해서 찾아냈다!
+
 ## swexpertacademy.com
 
 [1244. 최대 상금](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD) : 2019.01.01.
