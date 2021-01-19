@@ -697,6 +697,15 @@
 - dfs로 풀었는데, 케이스 하나에서 조건을 이상하게 잡아서 한참동안 삽질을 했다
 - 그래도 이번엔 분명 조건을 이상하게 잡았을꺼라고 의심해서 찾아냈다!
 
+[CLOCKSYNC](https://algospot.com/judge/problem/read/CLOCKSYNC) : 2021.01.19.
+
+- 쌩 dfs로 풀었는데, 시간초과
+  - C로 하면 시간 안에 돌아간다고 한다
+- 잘 생각해서 최적화 케이스를 몇개 빼냈더니 돌아가긴 했다
+  - 아주 지저분해졌음
+- 다른 사람들 풀이를 보고 잘 생각해보니, 내 최적화 케이스를 일반화한 것
+  - 따라서 했더니 아주 빨리 돌아갔다
+
 ## swexpertacademy.com
 
 [1244. 최대 상금](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD) : 2019.01.01.
