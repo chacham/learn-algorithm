@@ -668,6 +668,13 @@
 - 오랜만에 메모이제이션 쓰니까 잘 돌아감!
 - 막막해보이는 것도 작은것부터 하면 될지도!
 
+[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061): 2021.01.22.
+
+- 스택을 쓰는 간단한 문제
+- 조건을 세세하게 체크안해서 한번 틀렸다
+- `while`로 검사하는 부분이 있는데, 어차피 마지막에 넣고 검사하는거라 그럴필요는 없었음
+  - 쓸모없는 검사를 한번 더하긴 하는데, 큰차이는 없을듯
+
 ## algospot.com
 
 [FESTIVAL](https://algospot.com/judge/problem/read/FESTIVAL) : 2018.09.26.
