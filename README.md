@@ -719,6 +719,14 @@
 - 다른 사람들 풀이를 보고 잘 생각해보니, 내 최적화 케이스를 일반화한 것
   - 따라서 했더니 아주 빨리 돌아갔다
 
+[FENCE](https://algospot.com/judge/problem/read/FENCE) : 2021.01.26.
+
+- 한참 못풀다가 분할정복으로 시간초과나는 풀이 만들었음
+  - BST를 만들어야 하는데, 이게 너무 느렸다
+- Tree 만드는 부분 좀더 개선시켜도 잘 안됐는데, random으로 같은숫자를 좀 섞어주니까 통과는 했다
+- 나는 `O(nlogn)`으로 풀었음
+  - `O(n)` 풀이도 몇가지 있다고 하니까 공부하고 나중에는 다시 풀어볼 기회가 있겠지
+
 ## swexpertacademy.com
 
 [1244. 최대 상금](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD) : 2019.01.01.
