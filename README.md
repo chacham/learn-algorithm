@@ -598,6 +598,13 @@
 - Tree inorder 하기
 - 그냥 재귀하면 되는데, 파이썬이라서 좀더 쉬웠다
 
+[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) : 2021.02.06.
+
+- 처음엔 스택 두개 써서 뒤에꺼부터 비교하려고 했는데, 문제 조건이 걸림
+  - 시간은 `O(n)`, 공간은 `O(1)`
+- node를 비교하는 문제라, 값을 왜줬을까 고민하다가 결국은 풀었다
+- 제약조건이 명확하게 나와있어서 좀더 고민을 해봤는데, 아니면 그냥 스택 썼을듯
+
 ---
 
 ## programmers.co.kr
