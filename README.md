@@ -772,6 +772,12 @@
 - 근데 조건을 윗줄 왼쪽 오른쪽 생각해야해서 조금 귀찮다
   - 계속 하면 습관이 생기겠지
 
+[LIS](https://algospot.com/judge/problem/read/LIS) : 2021.02.07.
+
+- 유명한 LIS 문제
+- 잘 생각은 안났지만, 어디서 봤던 기억이 있어서 풀었다
+- `O(nlogn)` 도 있다고는 하는데, 언젠가 알아볼 기회가 있겠지
+
 
 ## swexpertacademy.com
 
