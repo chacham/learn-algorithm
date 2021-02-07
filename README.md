@@ -766,6 +766,12 @@
 - 룰을 그냥 바로바로 생각해서 하니까 너무 지저분하게 함
   - 요번에는 운이 좋아서 그냥 됐지만, 더 고민하면 깔끔하게 나오지 않을까?
 
+[TRIANGLEPATH](https://algospot.com/judge/problem/read/TRIANGLEPATH) : 2021.02.07.
+
+- 간단한 dp문제
+- 근데 조건을 윗줄 왼쪽 오른쪽 생각해야해서 조금 귀찮다
+  - 계속 하면 습관이 생기겠지
+
 
 ## swexpertacademy.com
 
