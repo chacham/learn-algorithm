@@ -802,13 +802,14 @@
 
 ## [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
 
-[Big Buttons](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ee2/0000000000051136) : 2019.02.26.
+[2018 Round H](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ee2) : 2019.02.26.
 
-- 주어진 prefix 없이 만들 수 있는 문자열의 갯수를 구하는 문제
-- 천천히 생각부터 하고 코딩했으면 빨리 풀었을텐데, 그냥 무작정 손대서 오래걸렸다..
-- 종이 가지고다니면서 적으면서 생각해보자
-- 또, 출력 형식 틀려서 틀림..
-  - 조심합시다
+- Big Buttons
+  - 주어진 prefix 없이 만들 수 있는 문자열의 갯수를 구하는 문제
+  - 천천히 생각부터 하고 코딩했으면 빨리 풀었을텐데, 그냥 무작정 손대서 오래걸렸다..
+  - 종이 가지고다니면서 적으면서 생각해보자
+  - 또, 출력 형식 틀려서 틀림..
+    - 조심합시다
 
 [2019 Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
 
@@ -821,6 +822,18 @@
 - Contention
   - 손도 못댔다. 공부가 더 필요합니다..
   - 전체에서 10명이 스몰 풀었고, 2명이 라지까지 다 풀었다
+
+[2020 Round A](https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7)
+
+- Allocation (2021.02.21.)
+  - 정렬하고 greedy로 더하면 되는 쉬운 문제
+- Plates (2021.02.21.)
+  - 처음에 생각난 방법들이 다 greedy인데, 다 실패함
+    - 앞에서부터 greedy - 당연히 안됨
+    - 뒤에서부터 greedy로 작은거 빼기 - 요것도 당연히 안됨
+    - 가성비를 미리 다 계산해놓고, 좋은것부터 greedy로 더하기
+      - 요건 될줄알았는데, 예시부터 안됨..
+  - dp로 하니까 생각보다 쉽게 넘어갔다
 
 ## [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
 
