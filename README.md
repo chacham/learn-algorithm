@@ -797,6 +797,15 @@
   - go로 고쳐서 겨우 통과
 - go 연습을 착실히 해야겠다
 
+[QUANTIZE](https://algospot.com/judge/problem/read/QUANTIZE) : 2021.02.25.
+
+- dp가 막 복잡한건 아닌것같은데, Mean Square Error 구하는걸 하려니까 좀 느려진듯
+  - 이걸 앞에서부터 쭉 돌면서 다 미리 만들어놔야 하나?
+- 통과는 했는데, 좀 느려서 찝찝하긴 하다
+- Mean Square Error 구하는거 헷갈림
+  - 대충 평균으로 해서 하면 되겠다 했는데, 다행히도 맞았다
+- 이번껀 입력이 작아서 잘 넘어간것같다
+
 
 ## swexpertacademy.com
 
