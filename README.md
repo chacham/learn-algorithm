@@ -806,6 +806,11 @@
   - 대충 평균으로 해서 하면 되겠다 했는데, 다행히도 맞았다
 - 이번껀 입력이 작아서 잘 넘어간것같다
 
+[TILING2](https://algospot.com/judge/problem/read/TILING2) : 2021.03.01.
+
+- 간단한 dp문제
+- 범위가 작아서 그냥 다 만들어놓고 했다
+
 
 ## swexpertacademy.com
 
