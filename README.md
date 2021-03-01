@@ -811,6 +811,11 @@
 - 간단한 dp문제
 - 범위가 작아서 그냥 다 만들어놓고 했다
 
+[TRIPATHCNT](https://algospot.com/judge/problem/read/TRIPATHCNT) : 2021.03.01.
+
+- 그냥 내려가면서 길찾는 dp에서 아아주 약간 꼬인 문제
+- 별로 어렵지는 않았다
+
 
 ## swexpertacademy.com
 
