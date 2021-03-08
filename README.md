@@ -611,6 +611,11 @@
 - dict같은거 써서 있는 원소만 세면 좀더 빠르겠다는 생각 하긴 했는데, 귀찮아서 그냥 리스트 썼다
   - 더 빠른 코드들 보니까, defaultdict같은걸 쓴듯
 
+[integer-break](https://leetcode.com/problems/integer-break/) : 2021.03.08.
+
+- dp인데, 데이터를 dp에 집어넣은것만 쓰려고 생각해서 헷갈렸다
+- 가만히 잘 있는 입력데이터도 잘 사용하도록 하자
+
 
 ---
 
