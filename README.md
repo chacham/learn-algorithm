@@ -843,6 +843,12 @@
 - 처음의 base 해를 만들어두는게 생각하기 좀 복잡했다
   - 가로/세로 2줄씩 미리 만들어둬서 겨우 성공
 
+[ASYMTILING](https://algospot.com/judge/problem/read/ASYMTILING) : 2021.03.14.
+
+- 타일 경우의 수 세는 문제를 조금 변형한 것
+- 숫자가 커진다고 `mod`하는건 파이썬이라서 간단하게 출력할때만 했다
+  - MOD를 더해놓고 하면 항상 양수가 나오는것 기억해두기!!
+
 
 ## swexpertacademy.com
 
