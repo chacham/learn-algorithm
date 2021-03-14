@@ -616,6 +616,9 @@
 - dp인데, 데이터를 dp에 집어넣은것만 쓰려고 생각해서 헷갈렸다
 - 가만히 잘 있는 입력데이터도 잘 사용하도록 하자
 
+[swapping-nodes-in-a-linked-list](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) : 2021.03.14.
+
+- leetcode에서 항상 나오는 list two pointer 문제
 
 ---
 
