@@ -931,6 +931,11 @@
       - 요건 될줄알았는데, 예시부터 안됨..
   - dp로 하니까 생각보다 쉽게 넘어갔다
 
+[2020 Round G](https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069)
+
+- Kick_Start (2021.03.20.)
+  - 간단한 문제였는데, 출력 포맷을 틀려서 한번 틀림..
+
 ## [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
 
 [Qualification Round 2019](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705)
