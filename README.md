@@ -936,6 +936,25 @@
 - Kick_Start (2021.03.20.)
   - 간단한 문제였는데, 출력 포맷을 틀려서 한번 틀림..
 
+[2021 Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000436140) : 2021.03.21.
+
+- K-Goodness String
+  - 너무 쉬워서 잉? 했던 문제
+  - 금방 풀었다
+- L Shaped Plots
+  - 처음에 dp를 왼쪽, 윗쪽 두 방향으로만 해서 반복문 돌면서 느린 부분이 있어서 그랬는지 큰 케이스에서 TLE
+  - 그래서 오른쪽, 아랫쪽까지 모두 저장해둬서 계산하니까 통과했다
+  - 케이스를 깔끔하게 잘 못세서 코드도 복잡하고 생각하기도 어려웠음
+- Rabbit House
+  - 힙이랑 큐로 대충 bfs로 했더니 시간초과
+  - 이중 큐로 높은거 먼저 bfs 돌리고 다른걸로 넘어가니까 겨우 통과했다
+  - 우선순위를 잘 잡는게 어려운것같다
+- Checksum
+  - 결국 못풀었음
+  - 시간이 3문제 풀고 40분 넘게 남았는데, 처음부터 쉬운 케이스만 넘기려고 먼저 했으면 작은 케이스는 풀었을듯
+  - 다음에 다시 풀어볼 기회가 있겠지~
+
+
 ## [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
 
 [Qualification Round 2019](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705)
