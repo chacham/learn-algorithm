@@ -648,6 +648,12 @@
 
 - leetcode에서 항상 나오는 list two pointer 문제
 
+[3sum-with-multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/) : 2021.03.23.
+
+- 처음에는 count 배열만 만들어서 무식하게 루프를 다 돌았다
+  - 통과는 했는데 느릿느릿
+- 두번째 세번째 풀면서는 예전에 3sum 다른거 풀었을때 기억해보면서 루프 하나씩 줄였음 
+
 ---
 
 ## programmers.co.kr
