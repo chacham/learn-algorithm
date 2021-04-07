@@ -272,6 +272,11 @@
 - visited를 딕셔너리로 한 것도 영향이 있었을까
 - go를 배워야겠다
 
+[5427](https://www.acmicpc.net/problem/5427) : 2021.04.03.
+
+- 쪼금 복잡해진 bfs 문제
+- 순서랑 초기값 헷갈려서 한번 틀렸음..
+
 ---
 
 ## leetcode.com
