@@ -1024,6 +1024,22 @@
   - 시간이 3문제 풀고 40분 넘게 남았는데, 처음부터 쉬운 케이스만 넘기려고 먼저 했으면 작은 케이스는 풀었을듯
   - 다음에 다시 풀어볼 기회가 있겠지~
 
+[2022 Round A](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb33e) : 2022.03.20.
+
+- 마지막 문제 large 테스트케이스 말고는 다 풀었다!
+  - 지금까지 푼것중에서 제일 많이 푼듯
+- Speed Typing
+- Challenge Nine
+- Palindrome Free Strings
+  - 생각을 잘못해서 처음에 몇번 돌아갔는데, 결국은 풀었다
+  - 처음엔 스캔으로 풀릴줄 알아서 계속 그쪽으로 생각하다가 좀 오래걸림..
+  - bfs로 바꾸고는 생각보다 금방 했다
+    - 5/6 팰린드롬 케이스 둘다 생각하는것때문에 처음에 좀 어려웠음..
+- Interesting Integers
+  - 작은 케이스는 정말 쉬운데, 큰 케이스는 잘 모르겠다
+    - 규칙같은게 있을것같은데, 처음에 생각한게 완전 꽝이라서 좀더 보다가 결국 포기
+    - 아쉽긴 해도 쫌 더봐도 못풀었을 듯
+
 
 ## [Google Codejam](https://codingcompetitions.withgoogle.com/codejam)
 
