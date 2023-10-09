@@ -1,3 +1,7 @@
+import sys
+input = sys.stdin.readline
+print = sys.stdout.write
+
 class deque:
     def __init__(self, size):
         self._start = 0
@@ -55,24 +59,29 @@ class deque:
         return self._deque[self._end]
 
 if __name__ == "__main__":
-    N = int(input())
+    N = int(input().strip())
     mydeq = deque(N)
     for n in range(N):
         op = input().split()
-        #print(mydeq._deque)
         if op[0] == "push_front":
             mydeq.push_front(op[1])
         elif op[0] == "push_back":
             mydeq.push_back(op[1])
         elif op[0] == "pop_front":
-            print(mydeq.pop_front())
+            print(str(mydeq.pop_front()))
+            print('\n')
         elif op[0] == "pop_back":
-            print(mydeq.pop_back())
+            print(str(mydeq.pop_back()))
+            print('\n')
         elif op[0] == "size":
-            print(mydeq.size())
+            print(str(mydeq.size()))
+            print('\n')
         elif op[0] == "empty":
-            print(1 if mydeq.empty() else 0)
+            print("1" if mydeq.empty() else "0")
+            print('\n')
         elif op[0] == "front":
-            print(mydeq.front())
+            print(str(mydeq.front()))
+            print('\n')
         elif op[0] == "back":
-            print(mydeq.back())
+            print(str(mydeq.back()))
+            print('\n')
